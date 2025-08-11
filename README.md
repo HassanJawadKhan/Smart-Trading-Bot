@@ -1,4 +1,4 @@
-# Stock Prediction API
+# Stock Predicting Transformer-based Bot
 
 A high-performance FastAPI backend for AI-powered stock price prediction using Transformer neural networks.
 
